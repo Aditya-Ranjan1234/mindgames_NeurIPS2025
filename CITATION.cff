@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "Revac: A Social Deduction Reasoning Agent"
+
+authors:
+  - family-names: "Arya"
+    given-names: "Mihir S"
+    affiliation: "Department of Computer Science and Engineering, RV College of Engineering, Bangalore"
+    email: "mihirsarya.cy23@rvce.edu.in"
+
+  - family-names: "Anish"
+    given-names: "Avinash"
+    affiliation: "Department of Information Science and Engineering, RV College of Engineering, Bangalore"
+    email: "avinashanish.is23@rvce.edu.in"
+
+  - family-names: "Ranjan"
+    given-names: "Aditya"
+    affiliation: "Department of Artificial Intelligence and Machine Learning, RV College of Engineering, Bangalore"
+    email: "adityaranjan.ai23@rvce.edu.in"
+
+version: "v1.0.0"
+date-released: "2026-04-13"
+
+doi: "10.5281/zenodo.19555330"
+
+repository-code: "https://github.com/Aditya-Ranjan1234/mindgames_NeurIPS2025"
+
+license: "MIT"
